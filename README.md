@@ -1,11 +1,8 @@
 [![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)](https://amritr.io)
 <h1 align="center">Hi 👋, I'm Amrit Raj</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="center" alt="Coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amritr31&label=Profile%20views&color=0e75b6&style=flat" alt="amritr31" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amritr31" alt="amritr31" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/amritr31" target="blank"><img src="https://img.shields.io/twitter/follow/amritr31?logo=twitter&style=for-the-badge" alt="amritr31" /></a> </p>
 
