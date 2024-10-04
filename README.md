@@ -33,9 +33,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amritr31&show_icons=true&locale=en&layout=compact" alt="amritr31" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amritr31&show_icons=true&locale=en" alt="amritr31" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amritr31&" alt="amritr31" /></p>
+
+### 📊 GitHub Contribution Graph
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=amritr31&show_icons=true&theme=radical)
 
 <p align="center">
   <strong>Looking forward to collaborating on innovative projects! 🚀</strong>
